@@ -1,0 +1,22 @@
+[
+  { "_id": "entrenador_1", "nombre": "Carlos Pérez", "edad": 45, "experiencia": "10 años", "estrategia": "Ofensiva", "equipoId": "equipo_1" },
+  { "_id": "entrenador_2", "nombre": "Laura Gómez", "edad": 50, "experiencia": "15 años", "estrategia": "Táctica", "equipoId": "equipo_2" },
+  { "_id": "entrenador_3", "nombre": "Jorge Ramírez", "edad": 48, "experiencia": "12 años", "estrategia": "Defensiva", "equipoId": "equipo_3" },
+  { "_id": "entrenador_4", "nombre": "Sofía Torres", "edad": 42, "experiencia": "8 años", "estrategia": "Posesión", "equipoId": "equipo_4" },
+  { "_id": "entrenador_5", "nombre": "Andrés Martínez", "edad": 37, "experiencia": "6 años", "estrategia": "Rápido", "equipoId": "equipo_5" },
+  { "_id": "entrenador_6", "nombre": "María Vargas", "edad": 47, "experiencia": "13 años", "estrategia": "Defensiva", "equipoId": "equipo_6" },
+  { "_id": "entrenador_7", "nombre": "Luis Fernández", "edad": 39, "experiencia": "7 años", "estrategia": "Ofensiva", "equipoId": "equipo_7" },
+  { "_id": "entrenador_8", "nombre": "Claudia Peña", "edad": 51, "experiencia": "18 años", "estrategia": "Táctica", "equipoId": "equipo_8" },
+  { "_id": "entrenador_9", "nombre": "Pedro Gómez", "edad": 41, "experiencia": "9 años", "estrategia": "Rápido", "equipoId": "equipo_9" },
+  { "_id": "entrenador_10", "nombre": "Ana Ramírez", "edad": 46, "experiencia": "14 años", "estrategia": "Posesión", "equipoId": "equipo_10" },
+  { "_id": "entrenador_11", "nombre": "Javier Castillo", "edad": 38, "experiencia": "5 años", "estrategia": "Ofensiva", "equipoId": "equipo_11" },
+  { "_id": "entrenador_12", "nombre": "Mónica Salazar", "edad": 44, "experiencia": "10 años", "estrategia": "Defensiva", "equipoId": "equipo_12" },
+  { "_id": "entrenador_13", "nombre": "Ricardo Torres", "edad": 36, "experiencia": "4 años", "estrategia": "Táctica", "equipoId": "equipo_13" },
+  { "_id": "entrenador_14", "nombre": "Paola Suárez", "edad": 49, "experiencia": "15 años", "estrategia": "Rápido", "equipoId": "equipo_14" },
+  { "_id": "entrenador_15", "nombre": "Felipe Álvarez", "edad": 43, "experiencia": "11 años", "estrategia": "Posesión", "equipoId": "equipo_15" },
+  { "_id": "entrenador_16", "nombre": "Daniela Gómez", "edad": 40, "experiencia": "8 años", "estrategia": "Defensiva", "equipoId": "equipo_16" },
+  { "_id": "entrenador_17", "nombre": "Santiago Ruiz", "edad": 39, "experiencia": "6 años", "estrategia": "Ofensiva", "equipoId": "equipo_17" },
+  { "_id": "entrenador_18", "nombre": "Margarita Sánchez", "edad": 52, "experiencia": "20 años", "estrategia": "Táctica", "equipoId": "equipo_18" },
+  { "_id": "entrenador_19", "nombre": "Juan Pérez", "edad": 45, "experiencia": "12 años", "estrategia": "Posesión", "equipoId": "equipo_19" },
+  { "_id": "entrenador_20", "nombre": "Valentina Fernández", "edad": 35, "experiencia": "5 años", "estrategia": "Rápido", "equipoId": "equipo_20" }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "_id": "partido_1",
+    "fecha": "2024-11-19",
+    "lugar": "Estadio Nacional",
+    "equipoLocalId": "equipo_1",
+    "equipoVisitanteId": "equipo_2",
+    "arbitroId": "arbitro_1",
+    "resultado": {
+      "golesLocal": 1,
+      "golesVisitante": 3,
+      "ganador": "equipo_2"
+    },
+    "estadisticas": {
+      "posesionLocal": 45,
+      "posesionVisitante": 55,
+      "tarjetasAmarillas": ["jugador_2", "jugador_4"],
+      "tarjetasRojas": []
+    }
+  },
+  {
+    "_id": "partido_2",
+    "fecha": "2024-11-21",
+    "lugar": "Estadio Olímpico",
+    "equipoLocalId": "equipo_2",
+    "equipoVisitanteId": "equipo_3",
+    "arbitroId": "arbitro_2",
+    "resultado": {
+      "golesLocal": 0,
+      "golesVisitante": 2,
+      "ganador": "equipo_3"
+    },
+    "estadisticas": {
+      "posesionLocal": 40,
+      "posesionVisitante": 60,
+      "tarjetasAmarillas": ["jugador_5"],
+      "tarjetasRojas": []
+    }
+  },
+  {
+    "_id": "partido_3",
+    "fecha": "2024-11-23",
+    "lugar": "Estadio Centenario",
+    "equipoLocalId": "equipo_3",
+    "equipoVisitanteId": "equipo_4",
+    "arbitroId": "arbitro_3",
+    "resultado": {
+      "golesLocal": 2,
+      "golesVisitante": 2,
+      "ganador": "Empate"
+    },
+    "estadisticas": {
+      "posesionLocal": 50,
+      "posesionVisitante": 50,
+      "tarjetasAmarillas": ["jugador_6"],
+      "tarjetasRojas": ["jugador_8"]
+    }
+  },
+  {
+    "_id": "partido_4",
+    "fecha": "2024-11-25",
+    "lugar": "Estadio Azteca",
+    "equipoLocalId": "equipo_4",
+    "equipoVisitanteId": "equipo_5",
+    "arbitroId": "arbitro_4",
+    "resultado": {
+      "golesLocal": 3,
+      "golesVisitante": 1,
+      "ganador": "equipo_4"
+    },
+    "estadisticas": {
+      "posesionLocal": 60,
+      "posesionVisitante": 40,
+      "tarjetasAmarillas": ["jugador_1", "jugador_3"],
+      "tarjetasRojas": []
+    }
+  },
+  {
+    "_id": "partido_5",
+    "fecha": "2024-11-28",
+    "lugar": "Estadio de la Copa",
+    "equipoLocalId": "equipo_5",
+    "equipoVisitanteId": "equipo_6",
+    "arbitroId": "arbitro_5",
+    "resultado": {
+      "golesLocal": 1,
+      "golesVisitante": 1,
+      "ganador": "Empate"
+    },
+    "estadisticas": {
+      "posesionLocal": 55,
+      "posesionVisitante": 45,
+      "tarjetasAmarillas": ["jugador_7"],
+      "tarjetasRojas": []
+    }
+  }
+]

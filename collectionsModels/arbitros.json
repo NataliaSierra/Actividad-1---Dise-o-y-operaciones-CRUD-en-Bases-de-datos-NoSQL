@@ -1,0 +1,12 @@
+[
+  { "_id": "arbitro_1", "nombre": "Jorge Torres", "edad": 40, "experiencia": "12 años", "partidosAsignados": [] },
+  { "_id": "arbitro_2", "nombre": "Pedro Sánchez", "edad": 40, "experiencia": "12 años", "partidosAsignados": [] },
+  { "_id": "arbitro_3", "nombre": "Luis Ramírez", "edad": 50, "experiencia": "20 años", "partidosAsignados": [] },
+  { "_id": "arbitro_4", "nombre": "Claudia Rojas", "edad": 37, "experiencia": "14 años", "partidosAsignados": [] },
+  { "_id": "arbitro_5", "nombre": "Andrés Gómez", "edad": 42, "experiencia": "18 años", "partidosAsignados": [] },
+  { "_id": "arbitro_6", "nombre": "Sofía Vargas", "edad": 29, "experiencia": "7 años", "partidosAsignados": [] },
+  { "_id": "arbitro_7", "nombre": "Carlos Medina", "edad": 48, "experiencia": "22 años", "partidosAsignados": [] },
+  { "_id": "arbitro_8", "nombre": "Paula Serrano", "edad": 33, "experiencia": "11 años", "partidosAsignados": [] },
+  { "_id": "arbitro_9", "nombre": "José Castillo", "edad": 46, "experiencia": "19 años", "partidosAsignados": [] },
+  { "_id": "arbitro_10", "nombre": "Laura Morales", "edad": 31, "experiencia": "9 años", "partidosAsignados": [] }
+]
